@@ -27,6 +27,7 @@ This project presents a comprehensive analytical study of the Gauss hypergeometr
 ```
 gauss_hypergeometric_tfg/
 ├── README.md
+├── LICENSE
 ├── paper/
 │   ├── gauss_hypergeometric_tfg.pdf
 │   └── source/
